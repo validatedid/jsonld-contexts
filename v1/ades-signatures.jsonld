@@ -41,7 +41,8 @@
           "@type": "@id"
         },
         "cades": "xsd:string",
-        "proofValue": "sec:proofValue"
+        "proofValue": "sec:proofValue",
+        "creator": "sec:creator"
       }
     }
   }
